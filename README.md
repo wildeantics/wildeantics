@@ -16,7 +16,7 @@ I've done a fair bit in:
 - [x] Figma
 
 And I'm currently teaching myself:
-- [ ] React
+- [ ] React (check out my [reality mobile web app](https://houseview.wilde.mx/)🏡 or my [Github finder web app](https://githubfinder.wilde.mx/)🔍)
 - [ ] Angular
 
 On the side I'm an extrovert with a love for plants 🪴, animals 🐶, food 🍴, and games 🎮
