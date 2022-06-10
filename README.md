@@ -14,7 +14,7 @@ I've done a fair bit in:
 ✅ JavaScript  
 ✅ WordPress (inc. PHP, plug-ins, and custom bits)  
 ✅ Figma  
-✅ React (check out my [reality mobile web app](https://houseview.wilde.mx/)🏡, my [helpdesk web app](http://helpdesk.wilde.mx/)🧑‍🚀, my [What's my number for 911?!](https://911.wilde.mx/)📞, or my [Github finder web app](https://githubfinder.wilde.mx/)🔍 and a big project coming.
+✅ React (check out my [reality mobile web app](https://houseview.wilde.mx/)🏡, my [helpdesk web app](http://helpdesk.wilde.mx/)🧑‍🚀, my [What's my number for 911?!](https://911.wilde.mx/)📞, or my [Github finder web app](https://githubfinder.wilde.mx/)🔍 and a big project coming)
 
 On the side I'm an extrovert with a love for plants 🪴, animals 🐶, food 🍴, and games 🎮
 
